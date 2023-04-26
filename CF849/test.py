@@ -1,3 +1,5 @@
-stri = "10"
-print(stri[:-1])
+s = "Akshay"
 
+for j in range(len(s)):
+        a= s[:j]
+        print(a, "+", s[j:])
