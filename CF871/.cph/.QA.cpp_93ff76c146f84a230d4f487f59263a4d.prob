@@ -1,0 +1,1 @@
+{"name":"Local: QA","url":"c:\\Users\\aksha\\Documents\\codeforces\\CF871\\QA.cpp","tests":[{"id":1683383963534,"input":"5\ncoolforsez\ncadafurcie\ncodeforces\npaiuforces\nforcescode","output":"4\n5\n0\n4\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\aksha\\Documents\\codeforces\\CF871\\QA.cpp","group":"local","local":true}
